@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64f155fd-c2ed-465d-8dad-9fcdd2e0e4f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheoryOfFormalLanguages/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Animation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Texture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer Graphics/src/main/java/Lab7/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab1/MatrixMultiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab1/MatrixMultiplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab__/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/src/main/java/Lab__/WordCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier$CalcThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier$CalcThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab1/MatrixMultiplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab__/WordCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DevelopingOfParallelAndDistributedProgramms/target/classes/Lab__/WordCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parser/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticalTasksInJava/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticalTasksInJava/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticalTasksInJava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticalTasksInJava/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WfRXDPR8sJv7KQGktflLbF3Jdw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="MediumDifficulty" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NextPermutation">
+    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediumDifficulty.DivideTwoIntegers" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MediumDifficulty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombinationsOfPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediumDifficulty.LetterCombinationsOfPhoneNumber" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MediumDifficulty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediumDifficulty.NextPermutation" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MediumDifficulty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediumDifficulty.RemoveNthNodeFromEndOfList" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MediumDifficulty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombinationsOfPhoneNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MediumDifficulty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MediumDifficulty" />
+      <option name="MAIN_CLASS_NAME" value="MediumDifficulty.LetterCombinationsOfPhoneNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.DivideTwoIntegers" />
+        <item itemvalue="Application.RemoveNthNodeFromEndOfList" />
+        <item itemvalue="Application.LetterCombinationsOfPhoneNumber" />
+        <item itemvalue="JUnit.LetterCombinationsOfPhoneNumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f155fd-c2ed-465d-8dad-9fcdd2e0e4f5" name="Changes" comment="" />
+      <created>1697121686974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697121686974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
